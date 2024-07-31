@@ -93,3 +93,7 @@ Local
 
 # .DS_Store
 .DS_Store
+
+# Added by Narenraju Nagarajan
+*.tar
+*.csv

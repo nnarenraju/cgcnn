@@ -4,6 +4,9 @@ import shutil
 import sys
 import time
 
+import warnings
+warnings.filterwarnings("ignore")
+
 import numpy as np
 import torch
 import torch.nn as nn
